@@ -1,0 +1,7 @@
+reservation_id,hotel_id,segment_declare,nb_nuits,nb_personnes,delai_reservation_j,mois_sejour,weekend,canal,prix_nuit_eur,petit_dejeuner,nuitees_cumulees_client,a_annule,nb_personnes_impute,motif
+R700355,H45,affaires,3,1.0,20.0,3,oui,OTA,0.0,non,5.0,non,False,prix 0 EUR
+R700232,H63,loisir,365,2.0,59.0,3,non,entreprise,346.25,oui,10.0,oui,False,365 nuits
+R700103,H41,affaires,1,1.0,5.0,1,oui,direct,0.0,oui,4.0,non,False,prix 0 EUR
+R700450,H64,loisir,365,3.0,40.0,2,non,agence,140.57,oui,15.0,non,False,365 nuits
+R700247,H63,loisir,3,6.0,49.0,5,non,direct,0.0,non,1.0,oui,False,prix 0 EUR
+R700391,H60,affaires,365,1.0,5.0,6,oui,OTA,131.91,non,2.0,non,False,365 nuits
