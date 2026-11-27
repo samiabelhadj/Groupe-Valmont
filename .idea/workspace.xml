@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="015c6b09-cba4-4879-877a-d554227ec7fe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;houdaNumi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/samiabelhadj/Groupe-Valmont.git&quot;,
+    &quot;accountId&quot;: &quot;6c81fe3a-4845-459d-8950-b613cea90f91&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4543283996107519" />
+      <entry key="MS500" value="3.486862950320365" />
+      <entry key="S2" value="6.546329272742613" />
+      <entry key="S5" value="14.68100446330234" />
+      <entry key="S10" value="27.33963099586054" />
+      <entry key="S30" value="55.553209459877394" />
+      <entry key="S60" value="72.60542174721749" />
+      <entry key="M2" value="85.58660715401936" />
+      <entry key="M5" value="105.18601100795902" />
+      <entry key="M10" value="134.2800919442379" />
+      <entry key="M15" value="158.78010601527583" />
+      <entry key="M30" value="206.81410486107416" />
+      <entry key="H1" value="249.07282679780255" />
+      <entry key="H2" value="277.953533697147" />
+      <entry key="H4" value="294.96396331913223" />
+      <entry key="D1" value="310.6753823429014" />
+      <entry key="W1" value="313.5211764240446" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.3818192973912535E-182" />
+      <entry key="S5" value="2.441640652551764E-73" />
+      <entry key="S10" value="6.826033950228426E-37" />
+      <entry key="S30" value="1.3911286914207828E-12" />
+      <entry key="S60" value="1.7117942859130742E-6" />
+      <entry key="M2" value="0.0021269850559214733" />
+      <entry key="M5" value="0.1808752335261447" />
+      <entry key="M10" value="0.8374122810429853" />
+      <entry key="M15" value="1.4052930623606836" />
+      <entry key="M30" value="2.3666547822399684" />
+      <entry key="H1" value="3.0754042270379616" />
+      <entry key="H2" value="3.50697160417796" />
+      <entry key="H4" value="3.7452766721748456" />
+      <entry key="D1" value="3.9563582819248806" />
+      <entry key="W1" value="3.9937357362819" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3362873788566854" />
+      <entry key="MS500" value="3.437062032992651" />
+      <entry key="S2" value="6.524213277354904" />
+      <entry key="S5" value="14.660131054902362" />
+      <entry key="S10" value="27.31496890918286" />
+      <entry key="S30" value="55.5265477584874" />
+      <entry key="S60" value="72.58539327666512" />
+      <entry key="M2" value="85.57613230304777" />
+      <entry key="M5" value="105.36003993502996" />
+      <entry key="M10" value="135.11229721162766" />
+      <entry key="M15" value="160.18089963078958" />
+      <entry key="M30" value="209.17755104622148" />
+      <entry key="H1" value="252.1462283157005" />
+      <entry key="H2" value="281.45937234615485" />
+      <entry key="H4" value="298.7086354394475" />
+      <entry key="D1" value="314.6316340694063" />
+      <entry key="W1" value="317.51489678899804" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MTlK4ucEejjF4ZYFY2ShcYje9K" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;nour&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/Groupe-Valmont/data/clean&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\Groupe-Valmont\data\clean" />
+      <recent name="C:\Users\DELL\PycharmProjects\Groupe-Valmont\notebooks" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015c6b09-cba4-4879-877a-d554227ec7fe" name="Changes" comment="" />
+      <created>1795382374121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795382374121</updated>
+      <workItem from="1795382375911" duration="2081000" />
+      <workItem from="1795795563238" duration="1133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
