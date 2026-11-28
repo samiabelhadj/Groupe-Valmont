@@ -1,0 +1,7 @@
+reservation_id,hotel_id,segment_declare,nb_nuits,nb_personnes,delai_reservation_j,mois_sejour,weekend,canal,prix_nuit_eur,petit_dejeuner,nuitees_cumulees_client,a_annule,nb_personnes_impute,cumul_incoherent,ville,categorie,chambres,salles_seminaire,distance_gare_km,etoiles,weekend_bin,a_annule_bin,petit_dej_oui,petit_dej_inconnu,delai_tranche,saison,prix_sejour_eur,anomalie_evidente,motif
+R700355,H45,affaires,3,1.0,20.0,3,oui,OTA,0.0,non,5.0,non,False,False,Bordeaux,3 étoiles,215,6,0.79,3,1,0,0,0,8-30 j,printemps,0.0,True,prix <= 10
+R700232,H63,loisir,365,2.0,59.0,3,non,entreprise,346.25,oui,10.0,oui,False,True,Strasbourg,5 étoiles,106,6,4.14,5,0,1,1,0,31-60 j,printemps,126381.25,True,nuits >= 30
+R700103,H41,affaires,1,1.0,5.0,1,oui,direct,0.0,oui,4.0,non,False,False,Toulouse,5 étoiles,77,7,1.05,5,1,0,1,0,0-7 j,hiver,0.0,True,prix <= 10
+R700450,H64,loisir,365,3.0,40.0,2,non,agence,140.57,oui,15.0,non,False,True,Marseille,3 étoiles,294,7,9.81,3,0,0,1,0,31-60 j,hiver,51308.049999999996,True,nuits >= 30
+R700247,H63,loisir,3,6.0,49.0,5,non,direct,0.0,non,1.0,oui,False,True,Strasbourg,5 étoiles,106,6,4.14,5,0,1,0,0,31-60 j,printemps,0.0,True,prix <= 10
+R700391,H60,affaires,365,1.0,5.0,6,oui,OTA,131.91,non,2.0,non,False,True,Strasbourg,3 étoiles,94,5,2.97,3,1,0,0,0,0-7 j,ete,48147.15,True,nuits >= 30
